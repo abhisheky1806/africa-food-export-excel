@@ -45,11 +45,6 @@
     <li>Microsoft Excel for creating the dashboard and pivot tables.</li>
   </ul>
   
-  <h2>Contributing</h2>
-  <p>Contributions to this project are currently not accepted as it is for demonstration purposes only.</p>
-  
-  <h2>License</h2>
-  <p>This project is licensed under the MIT.</p>
   
  ![HiCi - Africa Food Export-1](https://github.com/elfeenah/HiCi-African-Foods/assets/111433655/0d840eeb-fc12-43ea-a98c-1c6f4272229a)
  
